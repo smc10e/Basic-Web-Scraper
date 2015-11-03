@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div class="bannerSection">
+                <table id="PageBannerSectionTable" cellspacing="0" cellpadding="0" align="center" width="960">
+	<tbody><tr>
+		<td>
+                            <img id="FullBannerImage" src="http://dece318d271c30fdb8ea-6e74d7748ae48fff9d7b43d7a5ee5dda.r82.cf2.rackcdn.com/c42d.png" alt="Florida State University Intramural Sports" style="border-style:None;width:960px;">
+                            
+                            
+                        </td>
+	</tr>
+</tbody></table>
+
+            </div>
+
+</body>
+</html>
